@@ -1,9 +1,4 @@
-headers = []
-redirects = []
 
-[functions]
-
-[functions."*"]
 
 [[plugins]]
 origin = "default"
@@ -12,21 +7,15 @@ package = "@netlify/plugin-nextjs"
 [plugins.inputs]
 
 [build]
-publish = "C:\\Users\\User\\OneDrive\\Desktop\\Codo\\dist"
+publish = "dist"
 publishOrigin = "config"
 commandOrigin = "config"
-base = "C:\\Users\\User\\OneDrive\\Desktop\\Codo"
+base = "/"
 command = "npm run build"
 
-[build.environment]
 
-[build.processing]
 
-[build.processing.css]
 
-[build.processing.html]
-
-[build.processing.images]
 
 [build.processing.js]
 
