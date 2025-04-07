@@ -12,10 +12,8 @@ package = "@netlify/plugin-nextjs"
 [plugins.inputs]
 
 [build]
-publish = "C:\\Users\\User\\OneDrive\\Desktop\\Codo\\dist"
-publishOrigin = "config"
-commandOrigin = "config"
-base = "C:\\Users\\User\\OneDrive\\Desktop\\Codo"
+publish = "dist"
+base = "/"
 command = "npm run build"
 
 [build.environment]
