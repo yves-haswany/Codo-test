@@ -1,16 +1,4 @@
 [build]
 publish = "dist"
-<<<<<<< HEAD
 base = "/"
 command = "npm run build"
-
-
-
-
-
-=======
-publishOrigin = "config"
-commandOrigin = "config"
-base = "/"
-command = "npm run build"
->>>>>>> e92958f6d0c97d027387268a6cab161ebb82c59a
