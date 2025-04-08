@@ -1,5 +1,3 @@
-
-
 [[plugins]]
 origin = "default"
 package = "@netlify/plugin-nextjs"
@@ -7,10 +5,14 @@ package = "@netlify/plugin-nextjs"
 [plugins.inputs]
 
 [build]
+<<<<<<< HEAD
 publish = ".next"
 publishOrigin = 'config"
 commandOrigin = "config"
 
+=======
+publish = "dist"
+>>>>>>> d69642b0ab936214a26f9c5e0135071caf78e085
 base = "/"
 command = "npm run build"
 
