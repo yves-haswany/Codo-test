@@ -6,15 +6,7 @@ package = "@netlify/plugin-nextjs"
 
 [build]
 publish = "dist"
-publishOrigin = 'config"
+publishOrigin = "config"
 commandOrigin = "config"
 base = "/"
 command = "npm run build"
-
-
-
-
-
-[build.processing.js]
-
-[build.services]
