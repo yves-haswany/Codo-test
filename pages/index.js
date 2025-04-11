@@ -7,7 +7,7 @@ const Home = () => {
     <html lang="en">
       <head>
         <title>Codo</title>
-        <link rel="stylesheet" href="styles.css" />
+        <link rel="stylesheet" href="dist/styles.css" />
       </head>
       <body>
         <header>
