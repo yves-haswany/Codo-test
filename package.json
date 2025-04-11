@@ -9,7 +9,6 @@
         "@netlify/blobs": "^8.1.0",
         "@netlify/plugin-nextjs": "latest",
         "blobshape": "^1.0.0",
-        "bluesky": "^0.7.3",
         "bright": "^0.8.5",
         "custom": "^0.0.0",
         "domain": "^0.0.1",
